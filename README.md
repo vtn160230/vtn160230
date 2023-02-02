@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My Name is Tommy Nguyen and I am trying to advance my career through the improvement of my technical skills of SQL and Tableau. This is the journey of my learnings!
+
+A quick summary of me:
+- I'm a business analyst with 2.5 years of experience
+- Currently learning and improving my knowledge on SQL and Tableau
+- I play a lot of games and racket sports (tennis and pickleball)
+- A lot of datasets i'll be using will probably be something that pertains to me or things im interested in.
+
 <!--
 **vtn160230/vtn160230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
