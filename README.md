@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Tommy Nguyen and I am trying to advance my career through the improvement of my technical skills of SQL and Tableau. This is the journey of my learnings!
+My name is Tommy Nguyen and I am trying to advance my career through the improvement of my technical skills of SQL and Tableau. This is the journey of my learnings!
 
 A quick summary of me:
 - I'm a business analyst with 2.5 years of experience
